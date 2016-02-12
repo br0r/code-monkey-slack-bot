@@ -10,5 +10,5 @@ A slack bot that will make your chat hilarious (and sad)!
 npm install
 cp config.sample.js config.js
 $EDITOR config.js #Change token
-node index.js
+npm start
 ```
