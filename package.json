@@ -1,0 +1,15 @@
+{
+  "name": "code_monkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Silfverström <viktor@silfverstrom.com>",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "slack-client": "^1.4.1"
+  }
+}
