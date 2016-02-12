@@ -8,8 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Viktor Silfverström <viktor@silfverstrom.com>",
-  "license": "ISC",
-  "private": true,
+  "license": "MIT",
   "dependencies": {
     "slack-client": "^1.4.1"
   }
